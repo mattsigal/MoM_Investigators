@@ -1,0 +1,25 @@
+Name,Health,Sanity,Strength,Agility,Observation,Lore,Influence,Will,Set,Ability
+"""Ashcan"" Pete",7,7,4,4,4,3,2,4,MAD01,You begin the game with the Duke Unique Item.
+Agatha Crane,5,9,2,3,4,5,3,4,MAD20,"After you resolve a horror check, gain 1 Clue."
+Amanda Sharpe,7,7,3,3,4,4,3,4,MAD09,You may perform two additional puzzle steps while attempting a puzzle.
+Bob Jenkins,7,7,3,3,4,2,5,4,MAD09,"Once per round, when you spend an action to interact with a Person, you may flip 1 Horror facedown or discard 1 facedown Horror."
+Carolyn Fern,6,8,3,2,4,3,4,5,MAD06,Action: You or another investigator within range flip 1 Horror facedown or discard 1 facedown Horror.
+Carson Sinclair,8,6,3,2,5,4,4,3,MAD20,Action: Another investigator within range may perform 1 action. Activate this ability only once per round.
+Darrell Simmons,8,6,3,4,5,3,3,3,MAD06,"Once per round, if you would gain a Clue, you may become Focused instead."
+Dexter Drake,6,8,3,3,3,5,4,3,MAD06,"Once per round, when you gain a Spell, become Focused."
+Faher Mateo,6,8,3,3,2,4,4,5,MAD20,Action: Another investigator within range becomes Focused. Activate this ability only once per round.
+Gloria Goldberg,7,7,2,3,4,4,4,4,MAD01,"At the start of your turn, if you have no Clues, gain 1 Clue. "
+Harvey Walters,5,9,3,2,4,4,4,4,MAD01,Action: Another investigator within range gains 1 Clue. Activate this ability only once per round.
+Jenny Barnes,8,6,3,4,3,3,5,3,MAD01,"Action: If you have no Clues, gain 2 Clues and discard 1 Horror."
+Joe Diamond,8,6,4,5,3,3,3,3,MAD01,"If you spend a Clue to convert an MG to a ES, you may convert up to two MG to ES instead."
+Kate Winthrop,6,8,3,3,5,4,3,3,MAD01,You begin the game with the Flux Stabilizer Unique Item.
+Mandy Thompson,6,8,2,3,5,4,4,3,MAD09,"Once per round, when you gain a Clue, gain 1 additional Clue."
+Michael McGlen,9,5,5,3,4,2,3,4,MAD01,"Whenever a monster is defeated, become Focused."
+Minh Thi Phan,7,7,3,4,4,3,4,3,MAD20,"Once per round, you or another investigator within range may reroll 1 die while resolving a test."
+Monterey Jack,8,6,5,3,4,3,3,3,MAD09,Other investigators in your space do not need to evade monsters.
+Preston Fairmont,8,6,4,4,3,2,5,3,MAD20,"Once per round, when you gain an Item, you may flip 1 Horror facedown or discard 1 facedown Horror."
+Rita Young,9,5,5,4,3,3,2,4,MAD20,You may move 1 additional space as part of a move action.
+Sister Mary,6,8,3,3,3,4,3,5,MAD01,"Once per round, another investigator within range may convert an MG to a ES while resolving a test."
+Vincent Lee,8,6,4,2,4,3,4,4,MAD06,Action: You or another investigator within range flip 1 Damage facedown or discard 1 facedown Damage.
+Wendy Adams,6,8,3,5,4,3,3,3,MAD20,You cannot become Stunned or Restrained.
+William Yorick,7,7,4,3,4,3,3,4,MAD20,"Whenever a monster is defeated, gain 1 Clue."
