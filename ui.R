@@ -19,7 +19,7 @@ shinyUI(fluidPage(
                               selected = levels(dat$Set),
                               width = '100%')
     ),
-    column(4,
+    column(6,
            h5("Random Investigators?"),
            HTML("Given the selected sets, randomly sample an investigation team. <p>"),
            selectInput('players', 'Number of Characters to Sample:', 
