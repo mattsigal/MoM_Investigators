@@ -1,3 +1,7 @@
+dat <- read.csv("./data/Investigators.csv")
+dat$Set <- factor(dat$Set, 
+                  levels = c("MAD01", "MAD06", "MAD09", "MAD20"))
+
 shinyServer(function(input, output) {
 
   out <- reactive({
