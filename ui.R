@@ -1,7 +1,7 @@
 library(shiny)
 dat <- read.csv("./data/Investigators.csv")
 dat$Set <- factor(dat$Set, 
-                  levels = c("MAD01", "MAD06", "MAD09", "MAD20"))
+                  levels = c("MAD01", "MAD06", "MAD09", "MAD20", "MAD23"))
 
 shinyUI(fluidPage(
   title = "Mansions of Madness: Second Edition Investigators",
@@ -15,7 +15,8 @@ shinyUI(fluidPage(
                               c("MAD01: 1st Ed. coreset/Recurring Nightmares" = "MAD01",
                                 "MAD06: Forbidden Alchemy/Surpressed Memories" = "MAD06",
                                 "MAD09: Call of the Wild/Surpressed Memories" = "MAD09", 
-                                "MAD20: 2nd Ed. coreset" = "MAD20"),
+                                "MAD20: 2nd Ed. coreset" = "MAD20",
+                                "MAD23: Beyond the Threshold" = "MAD23"),
                               selected = levels(dat$Set),
                               width = '100%')
     ),

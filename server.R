@@ -1,6 +1,6 @@
 dat <- read.csv("./data/Investigators.csv")
 dat$Set <- factor(dat$Set, 
-                  levels = c("MAD01", "MAD06", "MAD09", "MAD20"))
+                  levels = c("MAD01", "MAD06", "MAD09", "MAD20", "MAD23"))
 
 shinyServer(function(input, output) {
 

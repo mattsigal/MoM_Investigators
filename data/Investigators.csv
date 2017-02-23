@@ -1,6 +1,7 @@
 Name,Health,Sanity,Strength,Agility,Observation,Lore,Influence,Will,Set,Ability
 """Ashcan"" Pete",7,7,4,4,4,3,2,4,MAD01,You begin the game with the Duke Unique Item.
 Agatha Crane,5,9,2,3,4,5,3,4,MAD20,"After you resolve a horror check, gain 1 Clue."
+Akachi Onyele,6,8,3,2,4,4,3,5,MAD23,Effects cannot cause you to discard Clues unless you choose to.
 Amanda Sharpe,7,7,3,3,4,4,3,4,MAD09,You may perform two additional puzzle steps while attempting a puzzle.
 Bob Jenkins,7,7,3,3,4,2,5,4,MAD09,"Once per round, when you spend an action to interact with a Person, you may flip 1 Horror facedown or discard 1 facedown Horror."
 Carolyn Fern,6,8,3,2,4,3,4,5,MAD06,Action: You or another investigator within range flip 1 Horror facedown or discard 1 facedown Horror.
@@ -23,3 +24,4 @@ Sister Mary,6,8,3,3,3,4,3,5,MAD01,"Once per round, another investigator within r
 Vincent Lee,8,6,4,2,4,3,4,4,MAD06,Action: You or another investigator within range flip 1 Damage facedown or discard 1 facedown Damage.
 Wendy Adams,6,8,3,5,4,3,3,3,MAD20,You cannot become Stunned or Restrained.
 William Yorick,7,7,4,3,4,3,3,4,MAD20,"Whenever a monster is defeated, gain 1 Clue."
+Wilson Richards,8,6,5,4,3,2,4,3,MAD23,"After you resolve a horror check, become Focused."
